@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annacarlacamargo, aka Anna
 - 👀 I’m interested in data science, statistical modeling, and tarot readings
-- 🌱 I’m currently learning Python, and have been programming with R for a decade
+- 🌱 I’m currently learning Python, and have been programming with R for over a decade
 - 📫 You can reach me at annacarlacamargo@gmail.com
 
 <!---
